@@ -3,7 +3,7 @@ Contributors: yithemes
 Tags: popup, popups, automatic popup, conversion, conversions, custom popup, dialog box, fancy popup, optin popup, pop-up, pop-ups, popup, popup ads, popup advertising, popup box, popup form, popup message, popup plugin, popup window, popups, unblockable, wordpress popup, woocommerce, woocommerce popup
 Requires at least: 3.5.1
 Tested up to: 4.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -43,6 +43,10 @@ YITH WooCommerce Popup will add a new tab called "WC Popup" in "YIT Plugins" men
 4. Popup in front page
 
 == Changelog ==
+= 1.0.1 =
+* Added: Support to WooCommerce 2.4.2
+* Updated: Plugin Core Framework
+
 = 1.0.0 =
 Initial release
 
@@ -50,6 +54,9 @@ Initial release
 If you have any suggestions concerning how to improve YITH WooCommerce Popup, you can [write to us](mailto:plugins@yithemes.com "Your Inspiration Themes"), so that we can improve YITH WooCommerce Popup.
 
 == Upgrade notice ==
+= 1.0.1 =
+* Added: Support to WooCommerce 2.4.2
+* Updated: Plugin Core Framework
 
 = 1.0.0 =
 Initial release

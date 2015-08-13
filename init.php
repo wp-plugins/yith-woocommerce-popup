@@ -2,7 +2,7 @@
 /*
 Plugin Name: YITH WooCommerce Popup
 Description: YITH WooCommerce Popup lets you easily manage and customize all the popups of your site
-Version: 1.0.0
+Version: 1.0.1
 Author: Yithemes
 Author URI: http://yithemes.com/
 Text Domain: ypop
@@ -47,7 +47,7 @@ register_activation_hook( __FILE__, 'yith_plugin_registration_hook' );
 if ( defined( 'YITH_YPOP_VERSION' ) ) {
     return;
 }else{
-    define( 'YITH_YPOP_VERSION', '1.0.0' );
+    define( 'YITH_YPOP_VERSION', '1.0.1' );
 }
 
 if ( ! defined( 'YITH_YPOP_FREE_INIT' ) ) {
