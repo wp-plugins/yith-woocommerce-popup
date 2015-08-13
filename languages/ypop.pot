@@ -1,0 +1,697 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Popup\n"
+"POT-Creation-Date: 2015-07-22 09:38+0100\n"
+"PO-Revision-Date: 2015-07-22 09:38+0100\n"
+"Last-Translator: \n"
+"Language-Team: Yithemes <plugins@yithemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../includes/class-yith-popup-admin.php:160
+#: ../includes/class-yith-popup-admin.php:240
+msgid "Settings"
+msgstr ""
+
+#: ../includes/class-yith-popup-admin.php:207
+msgid "Plugin Documentation"
+msgstr ""
+
+#: ../includes/class-yith-popup-admin.php:244
+msgid "Premium Version"
+msgstr ""
+
+#: ../includes/class-yith-popup-admin.php:251
+#: ../includes/class-yith-popup-admin.php:252
+msgid "WC Popup"
+msgstr ""
+
+#: ../includes/class-yith-popup-newsletter.php:63
+msgid "Custom Form"
+msgstr ""
+
+#: ../includes/class-yith-popup.php:84
+msgid "Theme 1"
+msgstr ""
+
+#: ../includes/class-yith-popup.php:95
+msgctxt "Post Type General Name"
+msgid "Yith Popup"
+msgstr ""
+
+#: ../includes/class-yith-popup.php:96
+msgctxt "Post Type Singular Name"
+msgid "Yith Popup"
+msgstr ""
+
+#: ../includes/class-yith-popup.php:97
+#: ../plugin-options/metabox/ypop_cpt_metabox.php:39
+msgid "Popup"
+msgstr ""
+
+#: ../includes/class-yith-popup.php:98
+msgid "Parent Item:"
+msgstr ""
+
+#: ../includes/class-yith-popup.php:99
+msgid "All Popups"
+msgstr ""
+
+#: ../includes/class-yith-popup.php:100
+msgid "View Popup"
+msgstr ""
+
+#: ../includes/class-yith-popup.php:101 ../includes/class-yith-popup.php:102
+msgid "Add New Popup"
+msgstr ""
+
+#: ../includes/class-yith-popup.php:103
+msgid "Edit Popup"
+msgstr ""
+
+#: ../includes/class-yith-popup.php:104
+msgid "Update Popup"
+msgstr ""
+
+#: ../includes/class-yith-popup.php:105
+msgid "Search Popup"
+msgstr ""
+
+#: ../includes/class-yith-popup.php:106
+msgid "Not found"
+msgstr ""
+
+#: ../includes/class-yith-popup.php:107
+msgid "Not found in Trash"
+msgstr ""
+
+#: ../includes/class-yith-popup.php:110
+msgid "yith_popup"
+msgstr ""
+
+#: ../includes/class-yith-popup.php:111
+msgid "Yith Popup Description"
+msgstr ""
+
+#: ../includes/class-yith-popup.php:247
+msgid "Title"
+msgstr ""
+
+#: ../includes/class-yith-popup.php:248
+#: ../plugin-options/metabox/ypop_cpt_metabox.php:36
+#: ../plugin-options/metabox/ypop_template.php:21
+#: ../plugin-options/metabox/ypop_template.php:24
+msgid "Template"
+msgstr ""
+
+#: ../includes/class-yith-popup.php:249
+msgid "Content Type"
+msgstr ""
+
+#: ../includes/class-yith-popup.php:250
+msgid "Active"
+msgstr ""
+
+#: ../includes/functions.yith-popup.php:81
+#: ../includes/functions.yith-popup.php:109
+msgid "Plugin not activated or not installed"
+msgstr ""
+
+#: ../includes/functions.yith-popup.php:90
+#: ../includes/functions.yith-popup.php:123
+msgid "No contact form found"
+msgstr ""
+
+#: ../includes/functions.yith-popup.php:139
+msgid "All categories"
+msgstr ""
+
+#: ../includes/newsletter-integration/Mailchimp.php:111
+msgid "Refreshing..."
+msgstr ""
+
+#: ../includes/newsletter-integration/Mailchimp.php:129
+msgid "Select a list"
+msgstr ""
+
+#: ../includes/newsletter-integration/Mailchimp.php:144
+msgid "Mailchimp API Key"
+msgstr ""
+
+#: ../includes/newsletter-integration/Mailchimp.php:145
+msgid ""
+"The Mailchimp API Key, used to connect WordPress to the Mailchimp service. "
+"If you need help to create a valid API Key, refer to this <a href=\"http://"
+"kb.mailchimp.com/article/where-can-i-find-my-api-key\">tutorial</a>"
+msgstr ""
+
+#: ../includes/newsletter-integration/Mailchimp.php:154
+msgid "Mailchimp List"
+msgstr ""
+
+#: ../includes/newsletter-integration/Mailchimp.php:155
+msgid ""
+"A valid Mailchimp list name. You may need to save your configuration before "
+"displaying the correct contents. If the list is not up to date, click the "
+"Refresh button"
+msgstr ""
+
+#: ../includes/newsletter-integration/Mailchimp.php:159
+msgid "Refresh"
+msgstr ""
+
+#: ../includes/newsletter-integration/Mailchimp.php:167
+#: ../plugin-options/metabox/ypop_metabox.php:351
+msgid "Email field label"
+msgstr ""
+
+#: ../includes/newsletter-integration/Mailchimp.php:168
+msgid "The label for the Email field"
+msgstr ""
+
+#: ../includes/newsletter-integration/Mailchimp.php:177
+#: ../plugin-options/metabox/ypop_metabox.php:373
+msgid "Submit button label"
+msgstr ""
+
+#: ../includes/newsletter-integration/Mailchimp.php:178
+#: ../plugin-options/metabox/ypop_metabox.php:374
+msgid "This field is not always used. It depends on the style of the form."
+msgstr ""
+
+#: ../includes/newsletter-integration/Mailchimp.php:206
+msgid "Mailchimp"
+msgstr ""
+
+#: ../includes/newsletter-integration/Mailchimp.php:387
+msgid "Mailchimp server error"
+msgstr ""
+
+#: ../includes/newsletter-integration/Mailchimp.php:390
+msgid "Mailchimp user related error"
+msgstr ""
+
+#: ../includes/newsletter-integration/Mailchimp.php:393
+msgid "Mailchimp user related error (action)"
+msgstr ""
+
+#: ../includes/newsletter-integration/Mailchimp.php:396
+msgid "Mailchimp list related error"
+msgstr ""
+
+#: ../includes/newsletter-integration/Mailchimp.php:399
+msgid "Mailchimp list related error (basic action)"
+msgstr ""
+
+#: ../includes/newsletter-integration/Mailchimp.php:402
+msgid "Mailchimp list related error (import)"
+msgstr ""
+
+#: ../includes/newsletter-integration/Mailchimp.php:405
+msgid "Mailchimp list related error (email)"
+msgstr ""
+
+#: ../includes/newsletter-integration/Mailchimp.php:408
+msgid "Mailchimp list related error (merge)"
+msgstr ""
+
+#: ../includes/newsletter-integration/Mailchimp.php:411
+msgid "Mailchimp list related error (interest group)"
+msgstr ""
+
+#: ../includes/newsletter-integration/Mailchimp.php:414
+msgid "Mailchimp general error"
+msgstr ""
+
+#: ../includes/newsletter-integration/Mailchimp.php:425
+msgid "<span class=\"success\">Email successfully registered</span>"
+msgstr ""
+
+#: ../includes/newsletter-integration/Mailchimp.php:430
+msgid "<span class=\"error\">Ops! Something went wrong</span>"
+msgstr ""
+
+#: ../includes/newsletter-integration/Mailchimp.php:435
+msgid ""
+"<span class=\"notice\">Ops! You have to use a valid email address</span>"
+msgstr ""
+
+#: ../init.php:27
+msgid ""
+"You can't activate the free version of YITH WooCommerce Popup while you are "
+"using the premium one."
+msgstr ""
+
+#: ../init.php:111
+msgid ""
+"YITH WooCommerce Popup is enabled but not effective. It requires WooCommerce "
+"in order to work."
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_cpt_metabox.php:27
+msgid "Global setting options"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_cpt_metabox.php:27
+msgid "Disable"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_cpt_metabox.php:30
+msgid "YITH WooCommerce Popup "
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:16
+#: ../plugin-options/metabox/ypop_metabox.php:281
+msgid "Newsletter"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:20
+#: ../plugin-options/metabox/ypop_metabox.php:402
+msgid "WooCommerce"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:25
+msgid "Popup Settings"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:34
+#: ../plugin-options/metabox/ypop_metabox.php:69
+msgid "Content"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:41
+msgid "Enable popup"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:48
+msgid "Content type"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:49
+msgid "Select the type of the content"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:59
+msgid "Header"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:61
+msgid "Add the header content of the popup"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:62
+msgid "SIGN UP TO OUR NEWSLETTER AND SAVE 25% OFF FOR YOUR NEXT PURCHASE"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:71
+msgid "Add the content of the popup"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:80
+msgid "Footer content"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:82
+msgid "Add the footer of the popup"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:96
+msgid "Layout"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:104
+msgid "Width"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:106
+msgid "Select the width of the popup."
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:116
+msgid "Height"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:118
+msgid "Select the height of the popup. Leave 0 to set it automatically"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:129
+msgid "Background color"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:130
+msgid "Select the background color of the popup"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:139
+msgid "Header background image"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:140
+msgid "Select the background image for the header"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:149
+msgid "Header height"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:151
+msgid "Select the height of the header popup"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:161
+msgid "Header color"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:164
+msgid "Select the color of the header"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:171
+msgid "Footer background color"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:172
+msgid "Select the background color of the footer"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:181
+msgid "Position of the field title in newsletter content type"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:182
+msgid "Select the position of the label "
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:186
+msgid "Label"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:187
+msgid "Placeholder"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:195
+msgid "Background color for submit button"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:196
+msgid "Select the background color for submit button"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:205
+msgid "Background color on hover for submit button"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:206
+msgid "Select the background color on hover for submit button"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:215
+msgid "Color for submit button"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:216
+msgid "Select the text color for submit button"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:229
+msgid "Background color for the hiding text area"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:230
+msgid "Select the background color for the hiding text area"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:235
+msgid "Text color for the hiding text"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:236
+msgid "Select the text color for the hiding text"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:245
+msgid "Display Settings"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:249
+msgid "Overlay opacity"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:261
+msgid "Customization"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:264
+msgid "CSS"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:273
+msgid "JavaScript"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:284
+msgid "Form integration preset"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:285
+msgid ""
+"Select what kind of newsletter service you want to use, or set a custom form."
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:292
+msgid "Form action"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:293
+msgid "The attribute \"action\" of the form."
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:303
+msgid "Request method"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:304
+msgid "The attribute \"method\" of the form."
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:307
+msgid "POST"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:308
+msgid "GET"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:318
+msgid "Show name field"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:319
+msgid "Show the \"Name\" field in the newsletter"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:329
+msgid "Name field label"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:330
+msgid "The label for \"Name\" field"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:340
+msgid "\"Name\" attribute of the Name field"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:341
+msgid "The \"Name\" attribute of the Name field."
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:352
+msgid "The label for the \"Email\" field"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:362
+msgid "\"Name\" attribute for Email field"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:363
+msgid "The attribute \"Name\" of the email address field."
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:384
+msgid "Hidden fields"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:385
+msgid ""
+"Type here all hidden field names and values in a serial way. Example: "
+"name1=value1&name2=value2."
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:406
+msgid "Select products"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:417
+msgid "Show name of product"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:425
+msgid "Show thumbnail of product"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:432
+msgid "Show price of product"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:439
+msgid "Show Add to Cart"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:446
+msgid "\"Add to cart\" Label"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:449
+msgid "Add to cart"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_metabox.php:453
+msgid "Show summary"
+msgstr ""
+
+#: ../plugin-options/metabox/ypop_template.php:15
+msgid "Popup Template"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:5
+#, php-format
+msgid ""
+"Attention: You should create a new popup to set this option. <a href=\"%s"
+"\">Create a new popup</a>"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:7
+msgid "Select the popup that you want to show as default"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:17
+msgid "General Settings"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:31
+msgid "Enable Popup"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:39
+msgid "Enable Popup in Mobile Device"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:45
+msgid "Show on all pages"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:46
+msgid "Enable newsletter popup in all pages."
+msgstr ""
+
+#: ../plugin-options/settings-options.php:51
+msgid "Select where you want to show the popup"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:52
+msgid "Select in which pages you want to show the popup. "
+msgstr ""
+
+#: ../plugin-options/settings-options.php:64
+msgid "Cookie Variable"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:65
+msgid ""
+"Set the name for the cookie generated after closing the link of the popup. "
+"In this way, as soon as you'll change this value, all your visitors will see "
+"the link again even if they have disabled it. Don't abuse of this function!"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:68
+msgid "yithpopup"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:72
+msgid "Hide policy"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:73
+msgid ""
+"Select when popup should be hidden. By default, it will be hidden only when "
+"the hiding checkbox is flagged) "
+msgstr ""
+
+#: ../plugin-options/settings-options.php:77
+msgid "Hide when the \"Hiding checkbox\" is flagged"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:78
+msgid "Show only once per session"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:82
+msgid "How many days should the popup be hidden for?"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:83
+msgid "Set how many days have to pass before showing again the lightbox"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:94
+msgid "Hiding text"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:95
+msgid ""
+"The title displayed next to the checkbox that lets users hide the popup "
+"forever. You can also use HTML code"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:98
+msgid "Do not show it anymore."
+msgstr ""
+
+#: ../plugin-options/settings-options.php:101
+msgid "Select the default popup"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:102
+msgid "Attention: You should create a new popup to set this option"
+msgstr ""
+
+#: ../templates/metaboxes/types/iconlist.php:70
+msgid "Upload"
+msgstr ""
+
+#: ../templates/metaboxes/types/iconlist.php:79
+msgid "Image preview"
+msgstr ""
+
+#: ../templates/metaboxes/types/iconlist.php:91
+#, php-format
+msgid "(Default: %s <img src=\"%s\"/>)"
+msgstr ""
+
+#: ../templates/metaboxes/types/iconlist.php:93
+#, php-format
+msgid "(Default: <i %s></i> )"
+msgstr ""
